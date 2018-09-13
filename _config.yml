@@ -1,14 +1,14 @@
 # Site settings
-title: Linked Data Working Group
+title: ArcGIS Working Group
 description: 'A working group of the Digital Scholarship and Scholarly Communications Office of the Vanderbilt Heard Libraries.'
-url: 'https://heardlibrary.github.io/linked-data/'
+url: 'https://heardlibrary.github.io/arcgis/'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
   name: 'Digital Scholarship and Scholarly Communications Office'
-  email: steve.baskauf@vanderbilt.edu
+  email: stacy.e.curry@vanderbilt.edu
   twitter_username: '@VandyLibraries'
   github_username:  heardlibrary
 
